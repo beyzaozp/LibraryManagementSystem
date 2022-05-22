@@ -1,0 +1,15 @@
+C:\Users\BeyzaOzp\source\repos\LibraryManagementSystem\LibraryManagementSystem.Core\bin\Debug\LibraryManagementSystem.Core.dll.config
+C:\Users\BeyzaOzp\source\repos\LibraryManagementSystem\LibraryManagementSystem.Core\bin\Debug\LibraryManagementSystem.Core.dll
+C:\Users\BeyzaOzp\source\repos\LibraryManagementSystem\LibraryManagementSystem.Core\bin\Debug\LibraryManagementSystem.Core.pdb
+C:\Users\BeyzaOzp\source\repos\LibraryManagementSystem\LibraryManagementSystem.Core\bin\Debug\EntityFramework.dll
+C:\Users\BeyzaOzp\source\repos\LibraryManagementSystem\LibraryManagementSystem.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\BeyzaOzp\source\repos\LibraryManagementSystem\LibraryManagementSystem.Core\bin\Debug\LibraryManagementSystem.Entities.dll
+C:\Users\BeyzaOzp\source\repos\LibraryManagementSystem\LibraryManagementSystem.Core\bin\Debug\LibraryManagementSystem.Entities.pdb
+C:\Users\BeyzaOzp\source\repos\LibraryManagementSystem\LibraryManagementSystem.Core\bin\Debug\LibraryManagementSystem.Entities.dll.config
+C:\Users\BeyzaOzp\source\repos\LibraryManagementSystem\LibraryManagementSystem.Core\bin\Debug\EntityFramework.xml
+C:\Users\BeyzaOzp\source\repos\LibraryManagementSystem\LibraryManagementSystem.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\BeyzaOzp\source\repos\LibraryManagementSystem\LibraryManagementSystem.Core\obj\Debug\LibraryManagementSystem.Core.csproj.AssemblyReference.cache
+C:\Users\BeyzaOzp\source\repos\LibraryManagementSystem\LibraryManagementSystem.Core\obj\Debug\LibraryManagementSystem.Core.csproj.CoreCompileInputs.cache
+C:\Users\BeyzaOzp\source\repos\LibraryManagementSystem\LibraryManagementSystem.Core\obj\Debug\LibraryManagementSystem.Core.csproj.CopyComplete
+C:\Users\BeyzaOzp\source\repos\LibraryManagementSystem\LibraryManagementSystem.Core\obj\Debug\LibraryManagementSystem.Core.dll
+C:\Users\BeyzaOzp\source\repos\LibraryManagementSystem\LibraryManagementSystem.Core\obj\Debug\LibraryManagementSystem.Core.pdb

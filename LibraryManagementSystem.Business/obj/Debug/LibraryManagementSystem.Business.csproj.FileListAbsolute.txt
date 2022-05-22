@@ -1,0 +1,6 @@
+C:\Users\BeyzaOzp\source\repos\LibraryManagementSystem\LibraryManagementSystem.Business\bin\Debug\LibraryManagementSystem.Business.dll
+C:\Users\BeyzaOzp\source\repos\LibraryManagementSystem\LibraryManagementSystem.Business\bin\Debug\LibraryManagementSystem.Business.pdb
+C:\Users\BeyzaOzp\source\repos\LibraryManagementSystem\LibraryManagementSystem.Business\obj\Debug\LibraryManagementSystem.Business.csproj.AssemblyReference.cache
+C:\Users\BeyzaOzp\source\repos\LibraryManagementSystem\LibraryManagementSystem.Business\obj\Debug\LibraryManagementSystem.Business.csproj.CoreCompileInputs.cache
+C:\Users\BeyzaOzp\source\repos\LibraryManagementSystem\LibraryManagementSystem.Business\obj\Debug\LibraryManagementSystem.Business.dll
+C:\Users\BeyzaOzp\source\repos\LibraryManagementSystem\LibraryManagementSystem.Business\obj\Debug\LibraryManagementSystem.Business.pdb
