@@ -71,7 +71,7 @@ namespace LibraryManagementSystem.DataAccess.UnitOfWork
             throw new NotImplementedException();
         }
 
-        IRepository<TEntity> IUnitOfWork.Dal<TEntity>()
+        IRepository<TEntity> IUnitOfWork.Dal<TEntity, TValidator>()
         {
             throw new NotImplementedException();
         }
@@ -104,5 +104,7 @@ namespace LibraryManagementSystem.DataAccess.UnitOfWork
             Dispose(disposing: true);
             GC.SuppressFinalize(this);
         }
+
+       
     }
 }

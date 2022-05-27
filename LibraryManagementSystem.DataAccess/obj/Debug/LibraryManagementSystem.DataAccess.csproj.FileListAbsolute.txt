@@ -4,3 +4,7 @@ C:\Users\BeyzaOzp\source\repos\LibraryManagementSystem\LibraryManagementSystem.D
 C:\Users\BeyzaOzp\source\repos\LibraryManagementSystem\LibraryManagementSystem.DataAccess\obj\Debug\LibraryManagementSystem.DataAccess.csproj.CoreCompileInputs.cache
 C:\Users\BeyzaOzp\source\repos\LibraryManagementSystem\LibraryManagementSystem.DataAccess\obj\Debug\LibraryManagementSystem.DataAccess.dll
 C:\Users\BeyzaOzp\source\repos\LibraryManagementSystem\LibraryManagementSystem.DataAccess\obj\Debug\LibraryManagementSystem.DataAccess.pdb
+C:\Users\BeyzaOzp\source\repos\hjghjg\LibraryManagementSystem.DataAccess\obj\Debug\LibraryManagementSystem.DataAccess.csproj.AssemblyReference.cache
+C:\Users\BeyzaOzp\source\repos\hjghjg\LibraryManagementSystem.DataAccess\obj\Debug\LibraryManagementSystem.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\BeyzaOzp\source\repos\hjghjg\LibraryManagementSystem.DataAccess\obj\Debug\LibraryManagementSystem.DataAccess.dll
+C:\Users\BeyzaOzp\source\repos\hjghjg\LibraryManagementSystem.DataAccess\obj\Debug\LibraryManagementSystem.DataAccess.pdb

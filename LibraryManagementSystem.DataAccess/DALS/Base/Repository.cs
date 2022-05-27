@@ -36,12 +36,12 @@ namespace LibraryManagementSystem.DataAccess.DALS.Base
             }
         }
 
-        public void AddOrUpdate(TEntity entity)
+        public void AddorUpdate(TEntity entity)
         {
             _context.Set<TEntity>().AddOrUpdate(entity);
         }
 
-        public void AddOrUpdate(IEnumerable<TEntity> entities)
+        public void AddorUpdate(IEnumerable<TEntity> entities)
         {
             foreach (var entity in entities)
             {
